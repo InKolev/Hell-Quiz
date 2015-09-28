@@ -12,7 +12,7 @@ But be careful, bombs are being dropped. If you **catch a bomb** - you **lose li
 If you catch a wrong letter, you must scout for a **"delete" symbol** and collect it. 
 These symbols are magical and **remove the last collected letter**.
 
-Have fun while thinking about an answer and trying to move your way through a field with random letters and dangerous mysterious objects.
+Have fun while thinking about an answer and trying to move your way through a field of random letters and dangerous mysterious objects.
 
 **Gameplay**
 --------
